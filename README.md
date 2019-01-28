@@ -4,7 +4,7 @@
 
 Submitted by: **Wenlong (Damon) Qiu**
 
-Time spent: **1** hours spent in total
+Time spent: **1 hour work + 1 hour making food** hours spent in total
 
 ## User Stories
 
